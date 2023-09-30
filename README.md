@@ -1,5 +1,4 @@
-### Hi there 👋
-
+I'm currently working on Persistent System as a Software Engineer and a passionate Computer Science graduate (BE, CSE) and GATE 2022 qualifier with a strong foundation in ReactJS,Material-UI , Java ,SpringBoot and Python. Completed Bachelor of Engineering in Computer Science in 2022. Ranked 254 in the Persistent Coding Contest and 434 in the TechGig Final, sponsored by Persistent System. Demonstrated coding expertise with 4 stars on HackerRank and CodeChef. Committed to delivering innovative solutions and continuously honing my skills in software development
 <!--
 **Lavish987/Lavish987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
